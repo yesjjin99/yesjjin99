@@ -30,6 +30,6 @@
 
 <h3 align="center">✨ Me ✨</h3>
 <p align="center">
-  <a href="https://velog.io/@yesjjin99"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yesjjin99"/></a>&nbsp
+  <a href="https://yesjjin-log.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yesjjin99"/></a>&nbsp
   <a href="mailto:yesjjin99@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yesjjin99@naver.com"/></a>
 </p>
