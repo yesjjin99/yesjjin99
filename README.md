@@ -6,9 +6,9 @@
 
 ![](https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white)
 <br>
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 <br>
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Amaozon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Amaozon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
