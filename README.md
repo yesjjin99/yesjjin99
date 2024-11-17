@@ -18,11 +18,12 @@
 ## 🗓 History 🗓
 <br>
 
-  <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ 2024.08(졸업예정)</sub></li>
-  <li><a href="https://github.com/dnd-side-project">DND</a> 6기 백엔드 <sub>(2022.01 ~ 2022.03)</sub></li>
-  <li><a href="https://github.com/CEOS-Developers">CEOS</a> 15기 백엔드 <sub>(2022.03 ~ 2022.08)</sub></li>
-  <li><a href="https://github.com/CEOS-Developers">CEOS</a> 16기 백엔드 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
+  <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ 2025.02(졸업예정))</sub></li>
+  <li><a href="https://www.yapp.co.kr/">YAPP</a> 25기 Server <sub>(2024.11 ~ )</sub></li>
   <li><a href="https://github.com/dnd-side-project">DND</a> 8기 백엔드 <sub>(2023.01 ~ 2023.03)</sub></li>
+  <li><a href="https://github.com/CEOS-Developers">CEOS</a> 16기 백엔드 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
+  <li><a href="https://github.com/CEOS-Developers">CEOS</a> 15기 백엔드 <sub>(2022.03 ~ 2022.08)</sub></li>
+  <li><a href="https://github.com/dnd-side-project">DND</a> 6기 백엔드 <sub>(2022.01 ~ 2022.03)</sub></li>
 
   <br>
   <li>첫 바디프로필 준비를 도와주는 바디프로필 매니저 어플리케이션 <a href="https://github.com/dnd-side-project/dnd-8th-3-backend">BPM</a> 백엔드 개발 <sub>(2023.01 ~ 2023.06)</sub></li>
