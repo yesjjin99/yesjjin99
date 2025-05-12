@@ -1,5 +1,8 @@
 #### 👩🏻‍💻 Backend Developer 👩🏻‍💻
 
+<a href="https://yesjjin99.notion.site/115cf68f95f280aea439da2e5702220b"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://yesjjin99.notion.site/115cf68f95f280aea439da2e5702220b"/></a>
+
+<br>
 
 ## 🛠 Tech Stack 🛠
 <br>
