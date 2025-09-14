@@ -19,7 +19,7 @@
 ## 🗓 History 🗓
 <br>
 
-  <li>컴퓨터공학과 <sub>(2018.03 ~ 2025.02)</sub></li>
+  <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ 2025.02)</sub></li>
   <li><a href="https://github.com/dnd-side-project">DND 6기 백엔드</a><sub> (2022.01 ~ 2022.03)</sub></li>
   <li><a href="https://github.com/CEOS-Developers">CEOS 15기 백엔드</a><sub> (2022.03 ~ 2022.08)</sub></li>
   <li><a href="https://github.com/CEOS-Developers">CEOS 16기 백엔드 운영진</a><sub> (2022.09 ~ 2023.02)</sub></li>
